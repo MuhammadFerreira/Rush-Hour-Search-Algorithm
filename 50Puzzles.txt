@@ -1,0 +1,154 @@
+#
+# 50 Random Rush-Hour Puzzles
+#
+
+# Puzzle 1
+..XX....BCD.AABCD....O.....O.....O.. O64 X27 B95 C4
+
+# Puzzle 2
+.....OPPP..OAAX..O..XQQQ....BB...... Q63 A45 B3 O75 P16 X2
+
+# Puzzle 3
+.XX.O....BO.AACBO...C.....D.....D...
+
+# Puzzle 4
+..XOOO..X.B.AA..B..PQQQ..P.....P.... X55 A2 O98 B12
+
+# Puzzle 5
+XBBCC.X...D.AA..D.....EE...FF.......
+
+# Puzzle 6
+.XXBB...CD..AACD..OOO......EE.......
+
+# Puzzle 7
+.......OOOXXAA...B.....BPPPQQQ......
+
+# Puzzle 8
+..X.BB..X.CDAA..CD.E.OOO.E..........
+
+# Puzzle 9
+...OOO.....XAA.B.XPPPB..CCDD........
+
+# Puzzle 10
+.OOOXX..B..CAAB..CPPP...............
+
+# Puzzle 11
+OOOPPP....X.AA..X.....BB............
+
+# Puzzle 12
+..X.BB..X.C...AAC.DDEEFF............
+
+# Puzzle 13
+XX..O.....OB..AAOB.......C.....CDDEE
+
+# Puzzle 14
+XX...O..B..OAABC.O...C............DD
+
+# Puzzle 15
+..XOOOB.XCC.B.AAD.....D.....E.....E.
+
+# Puzzle 16
+........XX..AABC....BC...DDE.....E..
+
+# Puzzle 17
+XX...O.B...O.BAA.O.P.....P.....PCCDD
+
+# Puzzle 18
+.XXB...CCB...AAD.....D....EOOO..E...
+
+# Puzzle 19
+....XX....BBAA.O.C...O.C...ODD...PPP
+
+# Puzzle 20
+.XBBCC.XDE..AADE..........FF........
+
+# Puzzle 21
+OXBBCCOX.PPPOD.AAE.D.FFEQQQ.GHIIJJGH
+
+# Puzzle 22
+XBBOOOX...CCAA..DPEEFFDP.GQQQP.GHHII
+
+# Puzzle 23
+.O...P.OQQQP.OAAXP....X.....B.....B.
+
+# Puzzle 24
+....O.X...O.X.AAOB...P.B..CPDD..CP.. A85 X88 B8 P42 O62 D18
+
+# Puzzle 25
+..X....BXOOO.BAAC..D..C..D..E.....E.
+
+# Puzzle 26
+...O...XXO..AA.OB.....B...CC.....DD.
+
+# Puzzle 27
+X....BXOOO.BAACD..EECD..FPPPGGF.....
+
+# Puzzle 28
+..OOOP....QP..AAQPXXBBQ...C.DD..C.EE P26 E70 O26
+
+# Puzzle 29
+XXBBCC...DEFAA.DEF...OOO..PPP.......
+
+# Puzzle 30
+O.XXBBO...CCO.AAD.....D.....E.....E.
+
+# Puzzle 31
+OX....OXBBP.OAACPQDDECPQ..EFFQ.GG... B78 G17 Q74 X32 A94
+
+# Puzzle 32
+X.BBC.XDD.C.AAE..FGGE..FOOOHHI.....I A98 D94 C88 F17 E34
+
+# Puzzle 33
+...XXO..PPPO.AAQBO...QB....QC.....C. C8 A67 B46 P9 X19
+
+# Puzzle 34
+OOOX...B.XCC.B.AADPPP..DQQQ..ERRR..E
+
+# Puzzle 35
+.XXBBO.C...O.CPAAODDPE..F.PEGGFHHQQQ X96 E65
+
+# Puzzle 36
+.OOOX.....X...AAB.....B...C.DD..C...
+
+# Puzzle 37
+OOOXXPB....PB.AA.PQCC.D.Q.E.D.Q.ERRR
+
+# Puzzle 38
+..XXO....BO.AA.BO..CDDEE.C..........
+
+# Puzzle 39
+XBB.C.X.D.CEAAD.FEGGHHFIOOOJ.I...J..
+
+# Puzzle 40
+.XB.CC.XB...AAD...O.DE..OFFEG.O...G.
+
+# Puzzle 41
+X.BBCDXOOOCDAAEFG.HHEFG....IJJ...I..
+
+# Puzzle 42
+XXOOO...PQQQAAP..BC.P..BCDD.EF.RRREF
+
+# Puzzle 43
+X.BBCCXOOO.DAAEF.D..EFGG.PPPHI.QQQHI
+
+# Puzzle 44
+XBBOC.X..OC.AADO....DPPPQQQEEFGGHH.F B11 G55 E68 O21 H39 X3 P49 D5 C9 Q78 A58 F94
+
+# Puzzle 45
+XBBOOOX.CCD.AAE.DP..EFFP.GGH.PQQQHII
+
+# Puzzle 46
+OOOX..PB.XCCPBAAQ.PDD.Q.EFF.QGEHHIIG
+
+# Puzzle 47
+XOOOBCXPPPBCAADEFG..DEFG...HII...HJJ
+
+# Puzzle 48
+OXBBCCOX.DEEOAADF.GGH.FP..HIIP.JJKKP A53 H76 P11 K61 X97 I83 C29
+
+# Puzzle 49
+X.BBCCX.DOOOAAD.PE...FPEQQQFPG.HHIIG
+
+# Puzzle 50
+OOOXXB..PCCBAAP..D..PQEDFGGQE.FHHQII
+
